@@ -1,0 +1,5 @@
+.form-container{border:1px solid #fff;padding:0px 40px; margin-top:0vh; align-items: center;margin-left: 30px;
+                }
+input[type=number] {
+ width: 70px;
+}
